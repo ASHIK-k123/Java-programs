@@ -38,7 +38,7 @@ ExampleProgram1_p10 o/p link : https://github.com/ASHIK-k123/Java-programs/blob/
 
 ExampleProgram2_p1 o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/ExampleProgram2_p1.png
 
-ExampleProgram2_p2 o/p link : 
+ExampleProgram2_p2 o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/ExampleProgram2_p1.png
 
 ExampleProgram2_p3 o/p link : 
 
