@@ -18,7 +18,7 @@ ImageButtonExample o/p link : https://github.com/ASHIK-k123/Java-programs/blob/m
 
 ExampleProgram1_p1 o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/ExampleProgram1_p1.png
 
-ExampleProgram1_p2 o/p link : 
+ExampleProgram1_p2 o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/Exampleprogram1_p2.png
 
 ExampleProgram1_p3 o/p link : 
 
