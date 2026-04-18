@@ -28,7 +28,7 @@ ExampleProgram1_p5 o/p link : https://github.com/ASHIK-k123/Java-programs/blob/m
 
 ExampleProgram1_p6 o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/ExampleProgram1_p6.png
 
-ExampleProgram1_p7 o/p link : 
+ExampleProgram1_p7 o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/ExampleProgram1_p7.png
 
 ExampleProgram1_p8 o/p link : 
 
