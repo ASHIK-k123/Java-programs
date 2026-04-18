@@ -1,2 +1,1 @@
-# Java-programs
-A collection of Java lab programs covering core concepts like Strings, Swing GUI, JDBC, and event handling. Includes practical examples for academic learning and hands-on practice.
+ListInterfaceDemo o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/Listinterfacedemooutput.png
