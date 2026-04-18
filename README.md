@@ -13,3 +13,5 @@ StringInterviewSollution o/p link : https://github.com/ASHIK-k123/Java-programs/
 SwingExample o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/Swingexampleoutput.png
 
  ButtonExample o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/buttonexampleoutput.png
+
+ImageButtonExample o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/imagebuttonexamoutput.png
