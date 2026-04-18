@@ -50,7 +50,7 @@ ExampleProgram2_p6 o/p link : https://github.com/ASHIK-k123/Java-programs/blob/m
 
 ExampleProgram2_p7 o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/ExampleProgram2_p7.png
 
-ExampleProgram2_p8 o/p link : 
+ExampleProgram2_p8 o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/ExampleProgram2_p8.png
 
 ExampleProgram2_p9 o/p link : 
 
