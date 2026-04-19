@@ -77,3 +77,7 @@ FactorialServlet o/p link : https://github.com/ASHIK-k123/Java-programs/blob/mai
 PrimeServlet o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/PrimeServletOutput.png
 
 CookieServlet o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/CookieServletOutput.png
+
+CookieUsingHTML o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/CookieUsingHtmlOutput.png
+
+SessionTrackingServlet o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/SessionTrackingServletOutput.png
