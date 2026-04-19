@@ -93,3 +93,9 @@ ResultServlet o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/R
 Mysql_Select_Insert o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/Mysql_Select_InsertOutput.png
 
 Mysql_Update o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/Mysql_UpdateOutput.png
+
+AddEmployeeServletOutput o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/AddEmployeeServletOutput.png
+
+Mysql_Delete o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/Mysql_DeleteOutput.png
+
+Mysql_Query o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/Mysql_QueryOutput.png
