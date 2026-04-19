@@ -101,3 +101,5 @@ Mysql_Delete o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/My
 Mysql_Query o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/Mysql_QueryOutput.png
 
 SalaryServletUsingJSP o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/SalaryServletUsingJSPOutput.png
+
+DeleteServletUsingJSP o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/DeleteServletUsingJspOutput.png
