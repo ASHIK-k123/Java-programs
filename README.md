@@ -73,3 +73,5 @@ StringBuildingFunction o/p link : https://github.com/ASHIK-k123/Java-programs/bl
 HelloWorldSecond o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/HelloWorldSecondOutput.png
 
 FactorialServlet o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/FactorialServletOutput.png
+
+PrimeServlet o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/PrimeServletOutput.png
