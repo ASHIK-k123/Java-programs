@@ -63,3 +63,5 @@ ExampleProgram2_p12 o/p link : https://github.com/ASHIK-k123/Java-programs/blob/
 JListExample o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/JListExampleoutput.png
 
 JListCountryCapital o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/JListCountryCapitalOutput.png
+
+TabbedPaneExample o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/TabbedPaneExampleOutput.png
