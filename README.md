@@ -69,3 +69,5 @@ TabbedPaneExample o/p link : https://github.com/ASHIK-k123/Java-programs/blob/ma
 TabbedPaneCMY o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/TabbedPaneCMYOutput.png
 
 StringBuildingFunction o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/StringBuildingFunctionsOutput.png
+
+HelloWorldSecond o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/HelloWorldSecondOutput.png
