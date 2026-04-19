@@ -61,3 +61,5 @@ ExampleProgram2_p11 o/p link : https://github.com/ASHIK-k123/Java-programs/blob/
 ExampleProgram2_p12 o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/ExampleProgram2_p12.png
 
 JListExample o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/JListExampleoutput.png
+
+JListCountryCapital o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/JListCountryCapitalOutput.png
