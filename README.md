@@ -99,3 +99,5 @@ AddEmployeeServletOutput o/p link : https://github.com/ASHIK-k123/Java-programs/
 Mysql_Delete o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/Mysql_DeleteOutput.png
 
 Mysql_Query o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/Mysql_QueryOutput.png
+
+SalaryServletUsingJSP o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/SalaryServletUsingJSPOutput.png
