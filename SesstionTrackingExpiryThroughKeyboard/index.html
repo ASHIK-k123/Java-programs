@@ -1,0 +1,32 @@
+<!--
+9.c Build a Session Management using JSP program for getting session expiry time and your name
+through text box and press submit to display the message by greeting Hello your name!.
+Press the following link to check it within the set session time or wait there for the minutes set 
+to see the session expiry.
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Session Input</title>
+</head>
+<body>
+
+<h2>Enter Details</h2>
+
+<!-- Form to send data to welcome.jsp -->
+<form action="welcome.jsp">
+
+    Name: <input type="text" name="uname"><br/><br/>
+
+    <!-- User enters session expiry time in seconds -->
+    Session Expiry Time (in seconds): 
+    <input type="text" name="time"><br/><br/>
+
+    <input type="submit" value="Start Session">
+
+</form>
+
+</body>
+</html>
