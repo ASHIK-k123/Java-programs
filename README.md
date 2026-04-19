@@ -89,3 +89,5 @@ SessionTrackinhExpiryThroughKeyboard o/p link : https://github.com/ASHIK-k123/Ja
 UserDataServlet o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/UserDataServletOutput.png
 
 ResultServlet o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/ResultServletOutput.png
+
+Mysql_Select_Insert o/p link : https://github.com/ASHIK-k123/Java-programs/blob/main/Mysql_Select_InsertOutput.png
